@@ -13151,11 +13151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anikat dogra\\source\\repos\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
+      "projectUniqueName": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
       "projectName": "WebApplication7",
-      "projectPath": "C:\\Users\\Anikat dogra\\source\\repos\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
+      "projectPath": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
       "packagesPath": "C:\\Users\\Anikat dogra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anikat dogra\\source\\repos\\WebApplication7\\WebApplication7\\obj\\",
+      "outputPath": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
