@@ -13145,23 +13145,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anikat dogra\\.nuget\\packages\\": {},
+    "C:\\Users\\Mayank\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
+      "projectUniqueName": "E:\\desktop\\Mayank's\\github practice\\FetchPrice\\WebApplication7\\WebApplication7.csproj",
       "projectName": "WebApplication7",
-      "projectPath": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\WebApplication7.csproj",
-      "packagesPath": "C:\\Users\\Anikat dogra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anikat dogra\\Desktop\\WebApplication7\\WebApplication7\\obj\\",
+      "projectPath": "E:\\desktop\\Mayank's\\github practice\\FetchPrice\\WebApplication7\\WebApplication7.csproj",
+      "packagesPath": "C:\\Users\\Mayank\\.nuget\\packages\\",
+      "outputPath": "E:\\desktop\\Mayank's\\github practice\\FetchPrice\\WebApplication7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anikat dogra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
